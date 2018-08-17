@@ -4,13 +4,21 @@ first project
 Project of protocole generator:
 
 1.	Upload list of PowerDistrubutors to DataFrame.
+
 Set variables of each columns (first row)
+
 1a. Name of PD
+
 1b. Building
+
 1c. Responsible person
+
 1d. Date
+
 1e. Adress
+
 1f. Name of Protocole
+
 1g. Conservation ->  false / true  | depending on date
 
 2.	Upload Template of Protocole
