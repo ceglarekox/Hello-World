@@ -14,6 +14,7 @@ Set variables of each columns (first row)
 1g. Conservation ->  false / true  | depending on date
 
 2.	Upload Template of Protocole
+
 LOOP {
 3.	Fill the Protocole with data from variables
 4.	Save Protocole.xlsx with Name+Date to /Protocoles
